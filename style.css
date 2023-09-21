@@ -1,0 +1,79 @@
+body {
+	background-color: rgb(207, 240, 249);
+	background-image: url("luisa_5.png");
+	margin: auto;
+	
+}
+
+
+	.img1{
+		position: relative;
+		width: 852px;
+		height: 318px;
+	}
+
+	.img1{
+		background-image: url(/Users/judithpoliti/Desktop/promo/1x/1x/Asset\ 2.png);
+		background-repeat: no-repeat;
+		position: absolute;
+		top: 0;
+		left: 0;
+
+	}
+
+
+/**
+.img3{
+		background-image: url(/Users/judithpoliti/Desktop/promo/luisa_2.png);
+		background-repeat: no-repeat;
+		translate: 55px, 100px;
+		transform: scale(0.5);
+
+	}
+	**/
+	h2 {
+		font-family: "legitima", serif;
+		font-weight: 500;
+		font-style: italic;
+		color: rgb(185, 102, 92, 1.0);
+		text-align: center;
+		font-size: 400px;
+	}	
+
+	h3{
+		font-family: "legitima", serif;
+		font-weight: 200;
+		font-style: normal;
+		font-size: 100px;
+		color: white;
+		text-decoration-line: line-through;
+		text-align: right;
+	}
+
+	h4{
+		font-family: "legitima", serif;
+		font-weight: 200;
+		font-style: normal;
+		font-size: 150px;
+		color: white;
+	}
+
+
+	a{
+		width: 340px;
+		height: 508px;
+	}
+
+	a{
+		background-image: url(/Users/judithpoliti/Desktop/promo/luisa_2.png);
+		background-repeat: no-repeat;
+		position: absolute;
+		top: 945px;
+		left: 262px;
+		transform: scale(0.84);
+
+
+	}
+
+
+
